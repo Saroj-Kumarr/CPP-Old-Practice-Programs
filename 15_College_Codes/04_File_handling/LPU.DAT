@@ -1,0 +1,1 @@
+cls ; if ($?) { function prompt{" "} } ; if ($?) { $Host.ui.rawui.foregroundcolor = "White"  } ; if ($?) { cd "c:\Programs\Cpp_Programs\15_College_Codes\04_File_handling\" } ; if ($?) { g++  xx.cpp -o xx } ; if ($?) { .\xx } ; if ($?) { echo `n } ; if ($?) { $Host.ui.rawui.foregroundcolor = "red" }
